@@ -1,0 +1,45 @@
+<svg width="180" height="212" viewBox="0 0 180 212" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="180" height="215" fill="#1B172B"/>
+<mask id="mask0_50_5658" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="180" height="215">
+<g opacity="0.75">
+<rect width="180" height="215" fill="url(#paint0_radial_50_5658)"/>
+<rect width="180" height="215" fill="url(#paint1_radial_50_5658)"/>
+</g>
+</mask>
+<g mask="url(#mask0_50_5658)">
+<rect opacity="0.68" width="180" height="213" fill="#FF555F"/>
+<g style="mix-blend-mode:color-dodge" opacity="0.5" filter="url(#filter0_f_50_5658)">
+<ellipse cx="89.5264" cy="7" rx="67.7368" ry="1" fill="white"/>
+</g>
+<g opacity="0.75" filter="url(#filter1_f_50_5658)">
+<rect x="12.3157" y="13" width="154.421" height="137.062" rx="68.5309" fill="#1B172B"/>
+</g>
+</g>
+<g clip-path="url(#clip0_50_5658)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 15.3996V11.8796C0 5.25219 5.37258 -0.120392 12 -0.120392H168C174.627 -0.120392 180 5.25221 180 11.8796V15.3997C180 8.77224 174.627 3.39964 168 3.39964H12C5.37258 3.39964 0 8.77223 0 15.3996Z" fill="#FF555F"/>
+</g>
+<defs>
+<filter id="filter0_f_50_5658" x="17.7896" y="2" width="143.474" height="10" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2" result="effect1_foregroundBlur_50_5658"/>
+</filter>
+<filter id="filter1_f_50_5658" x="-54.6843" y="-54" width="288.421" height="271.062" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="33.5" result="effect1_foregroundBlur_50_5658"/>
+</filter>
+<radialGradient id="paint0_radial_50_5658" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90.3237 -22.3113) rotate(90) scale(182.547 230.445)">
+<stop stop-color="#05CCFF"/>
+<stop offset="0.480315" stop-color="#05CCFF" stop-opacity="0.33"/>
+<stop offset="1" stop-color="#05CCFF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_50_5658" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(90 1.5) rotate(90) scale(4 93.5032)">
+<stop/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_50_5658">
+<rect width="180" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
