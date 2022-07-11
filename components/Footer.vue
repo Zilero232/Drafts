@@ -3,12 +3,12 @@
     <div class="container">
       <div class="footer__wrapper">
         <div class="footer__wrapper-left">
-          <p class="footer__wrapper-text">© 2021 Overwolf</p>
+          <p class="footer__wrapper-text">© 2022 Overwolf</p>
           <p class="footer__wrapper-text">Контакты</p>
         </div>
 
         <button class="footer__arrow">
-          <img src="@/assets/images/footer/arrow.svg" alt="">
+          <img src="@/assets/images/footer/arrow.svg" alt="" />
         </button>
 
         <div class="footer__wrapper-right">

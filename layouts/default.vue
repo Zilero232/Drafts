@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <Header />
-    <div class="main">
+    <transition name="fade">
       <Nuxt />
-    </div>
+    </transition>
     <Footer />
   </div>
 </template>

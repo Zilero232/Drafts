@@ -1,7 +1,7 @@
 <template>
   <div class="buy__wrapper-block_item">
     <h4 class="buy__wrapper-block_title">
-      {{ item.title }}
+     <span></span> {{ item.title }}  <span></span> 
     </h4>
     <div class="buy__wrapper-block_price">
       <p class="buy__wrapper-block_text">Цена:</p>

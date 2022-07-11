@@ -15,7 +15,7 @@
       </div>
     </div>
 
-    <div class="enjouy-item__bottom" v-if="item.status && item.range">
+    <div class="enjouy-item__bottom" v-if="false">
       <SettingsInputRange
         v-for="(item, id) in item.range"
         :key="id"
